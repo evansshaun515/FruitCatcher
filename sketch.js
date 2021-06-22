@@ -1,6 +1,6 @@
 var database;
 var back_img;
-var gameState =0;
+var gameState = 0;
 var playerCount = 0;
 var allPlayers;
 
